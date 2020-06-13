@@ -11,5 +11,5 @@ npm install --save GUS-devcamp-js-footer
 ```javascript
 import { footer } from 'GUS-devcamp-js-footer'
 
-footerf('Name');
+footer('Name');
 ```
